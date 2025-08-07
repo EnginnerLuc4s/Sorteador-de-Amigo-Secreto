@@ -24,6 +24,20 @@ Um pequeno aplicativo web para fazer sorteios de **amigo secreto** de forma prá
 
 ---
 
+## 🖼️ Tela
+
+> Veja abaixo como é a tela inicial do sorteador:
+>
+> 
+>
+
+>
+
+>
+> ![Print do Sorteador de Amigo Secreto](./printsorteador.png)
+
+---
+
 ## 📁 Estrutura dos Arquivos
 
 - **`index.html`**  
@@ -45,6 +59,12 @@ Um pequeno aplicativo web para fazer sorteios de **amigo secreto** de forma prá
 
 ---
 
+## 🧩 Aprendizados e Desafios
+
+Uma das maiores dificuldades durante o desenvolvimento desse projeto foi utilizar o **laço for** em JavaScript da maneira correta, seja para percorrer listas ou manipular os dados dos participantes. Apesar do desafio, foi gratificante aprofundar o conhecimento em estruturas de repetição e lógica de programação!
+
+---
+
 ## ⚠️ Observação Importante
 
 > Este sorteador revela **um sorteado por vez** e não impede repetições automáticas ou o sorteio de si mesmo.  
@@ -63,7 +83,7 @@ Um pequeno aplicativo web para fazer sorteios de **amigo secreto** de forma prá
 
 ## 🙋‍♂️ Desenvolvido por
 
-[Lucas Gomes](https://github.com/EnginnerLuc4s)
+[Lucas](https://github.com/EnginnerLuc4s)
 
 Se você curtiu, compartilhe ou deixe uma ⭐ no projeto!
 
