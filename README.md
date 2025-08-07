@@ -83,7 +83,7 @@ Uma das maiores dificuldades durante o desenvolvimento desse projeto foi utiliza
 
 ## 🙋‍♂️ Desenvolvido por
 
-[Lucas](https://github.com/EnginnerLuc4s)
+[Lucas Gomes](https://github.com/EnginnerLuc4s)
 
 Se você curtiu, compartilhe ou deixe uma ⭐ no projeto!
 
